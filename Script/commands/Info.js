@@ -46,7 +46,7 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 │
 ├─ 👑 𝗡𝗮𝗺𝗲 : 𝐍𝐀𝐇𝐈𝐃 𝐀𝐃𝐍𝐀𝐍
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/61554922259730
+│ facebook.https://www.facebook.com/nah.id.t.t.834382
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
 │ m.me/61554922259730
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
@@ -65,10 +65,10 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍♡𝐍𝐀𝐇𝐈𝐃✦𝐂𝐇𝐀𝐓✦𝐁𝐎𝐓♡😘`;
 
  const imgLinks = [
- "https://i.imgur.com/QHBICom.mp4",
- "https://i.imgur.com/QHBICom.mp4",
- "https://i.imgur.com/QHBICom.mp4",
- "https://i.imgur.com/QHBICom.mp4"
+ "https://i.imgur.com/ZdyA2IM.jpeg",
+ "https://i.imgur.com/DpNTifS.jpeg",
+ "https://i.imgur.com/6PI4DpK.jpeg",
+ "https://i.imgur.com/gtaenXb.jpeg"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
